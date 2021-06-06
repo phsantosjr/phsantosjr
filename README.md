@@ -9,3 +9,12 @@
 - 📫 How to reach me:
 https://www.linkedin.com/in/phsantosjr/
 
+
+#### My Portfolio ####
+
+- https://www.autosempregos.com.br
+- https://www.buscacafe.com.br
+- https://www.lojaconectada.com.br
+- https://classificados.lojaconectada.com.br
+
+
