@@ -1,6 +1,6 @@
 ### PH, is not Neutral or D... Just PH 👋
 
-##### Python/Django Developer
+##### Father, Son, Brother, Friend, Python/Django Developer
 
 - 🔭 I’m currently working on Django, Python projects
 - 🌱 I’m currently learning VueJS, AWS (how to use and spend a just money)
@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.phgr.tech/]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/phsantosjr/]
+[<img align="left" alt="PHGR TECH" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.phgr.tech/]
+[<img align="left" alt="PHGR TECH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/phsantosjr/]
 
 ### Languages and Tools:
 
