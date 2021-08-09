@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="PHGR TECH" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.phgr.tech/]
-[<img align="left" alt="PHGR TECH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/phsantosjr/]
+[<img align="left" alt="PHGR TECH" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="PHGR TECH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools:
 
@@ -30,3 +30,5 @@
 - https://classificados.lojaconectada.com.br
 
 
+[website]: https://www.phgr.tech/
+[linkedin]: https://www.linkedin.com/in/phsantosjr/
