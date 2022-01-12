@@ -3,9 +3,16 @@
 ##### Father, Son, Brother, Friend, Python/Django Developer
 
 - 🔭 I’m currently working on Django, Python projects
-- 🌱 I’m currently learning VueJS, AWS (how to use and spend a just money)
+- 🌱 I’m currently learning Data Science, Machine Learning
 - 🤔 I’m looking for help with KUbernets, ECS
 - 💬 Ask me about Coffee, Bike, Python and Django
+
+#### Profile
+
+My name is Paulo, I’m from Brazil, and I am a Full-Stack Software Engineer with over fifteen years of experience. 
+My passion is to solve problems using the knowledge that I’ve had in my career. I’ve been working as a Software Engineer since 2014, before that I was a Database Developer, and my main tech stack are Python, Django, Rest API, Docker and AWS. 
+I have a Bachelor’s degree in Computer Science and a MBA. In the last seven years I’ve been working in my own company, where I am responsible for IT, and we are doing a good job, having positive feedback and growing every year. 
+In my free time, I enjoy reading books, playing with my daughter, travelling, and spending time with my family. An interesting thing about me is that I love coffee, and indeed I developed a platform to help people like me to find Brazilian’s Special Coffee.
 
 
 ### Connect with me:
