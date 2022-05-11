@@ -41,7 +41,8 @@ In my free time, I enjoy reading books, playing with my daughter, travelling, an
 - https://www.autosempregos.com.br
 - https://www.buscacafe.com.br
 - https://www.lojaconectada.com.br
-- https://classificados.lojaconectada.com.br
+- https://www.findmotors.com.br
+- https://classificados.motoscustom.com.br
 
 
 [website]: https://www.phgr.tech/
