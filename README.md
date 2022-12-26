@@ -2,14 +2,14 @@
 
 ##### Father, Son, Brother, Friend, Python/Django Developer
 
-- 🔭 I’m currently working on Django, Python projects
-- 🌱 I’m currently learning Data Science, Machine Learning
-- 🤔 I’m looking for help with KUbernets, ECS
-- 💬 Ask me about Coffee, Bike, Python and Django
+- 🔭 I’m currently working on Django, Django Rest Framework and Python projects
+- 🌱 I’m currently learning Design Patterns, System Architecture, Devops and React.JS
+- 🤔 I’m looking for help with Kubernetes, React.JS
+- 💬 Ask me about Coffee, be a father, Python and Django
 
 #### Profile
 
-My name is Paulo, I’m from Brazil, and I am a Full-Stack Software Engineer with over sixteen years of experience. 
+My name is Paulo, I’m from Brazil, and I am a Full-Stack Software Engineer with over seventeen years of experience. 
 My passion is to solve problems using the knowledge that I’ve had in my career. 
 
 I’ve been working as a Software Engineer since 2014, before that I was a Database Developer, and my main tech stack are Python, Django, Django Rest Framework, Docker, Distributed Computer with Celery, and AWS.
