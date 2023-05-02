@@ -43,16 +43,14 @@ In my free time, I enjoy reading books, playing with my daughter, travelling, an
 
 #### My Portfolio ####
 
-- https://www.autosempregos.com.br
 - https://www.buscacafe.com.br
-- https://www.lojaconectada.com.br
 - https://www.octomotors.com.br
 - https://www.findmotors.com.br
 
 #### My Portfolio - React, NextJS, Tailwind ####
 
 - https://www.integradordeanuncios.com.br
-
+- https://www.lojaconectada.com.br
 
 [website]: https://www.phgr.tech/
 [linkedin]: https://www.linkedin.com/in/phsantosjr/
