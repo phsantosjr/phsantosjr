@@ -9,7 +9,7 @@
 
 #### Profile
 
-My name is Paulo, I’m from Brazil, and I am a Full-Stack Software Engineer with over seventeen years of experience. 
+My name is Paulo, I’m from Brazil, living in Canada, British Columbia, and I am a Full-Stack Software Engineer with over seventeen years of experience. 
 My passion is to solve problems using the knowledge that I’ve had in my career. 
 
 I’ve been working as a Software Engineer since 2014, before that I was a Database Developer, and my main tech stack are Python, Django, Django Rest Framework, Docker, Distributed Computer with Celery, and AWS.
