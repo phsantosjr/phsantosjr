@@ -9,14 +9,11 @@
 
 #### Profile
 
-My name is Paulo, I’m from Brazil, living in Canada, British Columbia, and I am a Full-Stack Software Engineer with over seventeen years of experience. 
-My passion is to solve problems using the knowledge that I’ve had in my career. 
+My name is Paulo, I’m from Brazil, living in Canada, British Columbia, and I am a Full-Stack Software Engineer with 18+ years of experience. 
 
-I’ve been working as a Software Engineer since 2014, before that I was a Database Developer, and my main tech stack are Python, Django, Django Rest Framework, Docker, Distributed Computer with Celery, and AWS.
+I’ve been working as a Software Engineer since 2014, before that I was a Database Developer, and my main tech stack are Python, Django, Django Rest Framework, Docker, Distributed Computer with Celery, and AWS. I've been digging this AI world and have become an AI enthusiast.
 
-I have a Bachelor’s degree in Computer Science and a MBA. In the last eight years I’ve been working in my own company, where I am responsible for IT, and we are doing a good job, having positive feedback and growing every year. 
 In my free time, I enjoy reading books, playing with my daughter, travelling, and spending time with my family. An interesting thing about me is that I love coffee, and indeed I developed a platform to help people like me to find Brazilian’s Special Coffee.
-My new project is a platform to help people to find best prices for their Brazilian Craft Beer - https://buscacerveja.com.br
 
 
 ### Connect with me:
@@ -45,8 +42,6 @@ My new project is a platform to help people to find best prices for their Brazil
 #### My Portfolio ####
 
 - https://www.buscacafe.com.br
-- https://www.buscacerveja.com.br
-- https://www.octomotors.com.br
 - https://www.findmotors.com.br
 
 #### My Portfolio - React, NextJS, Tailwind ####
